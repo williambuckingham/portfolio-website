@@ -1,0 +1,74 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background: #002fa7;
+}
+
+h1 {
+	color:#002fa7;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12vh;
+
+}
+
+p {
+	color:#002fa7;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3vh;
+}
+
+a{
+	color: #002fa7;
+}
+
+
+.text {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12vh;
+	color: white;
+}
+
+.text-cursor {
+	font-size: 12vh;
+	color: white;
+}
+
+.menu-link {
+	color: white;
+	text-decoration: none;
+}
+
+.menu-link:hover {
+	font-size: 14vh;
+}
+
+.caption-link {
+	color: white;
+}
+
+.menu {
+	margin-top: 5vh;
+	margin-left: 1vw;
+}
+
+.centred {
+	position: absolute;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+}
+
+.caption-text {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 5vh;
+	color: white;
+}
+
+.cursor {
+	font-size: 5vh;
+	color: white;
+}
+
+.underline {
+	text-decoration: underline;
+}
